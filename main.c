@@ -210,7 +210,7 @@ unsigned int reverse_half_nybbles(unsigned int i) {
     return toreturn;
 }
 
-//i added this function to make my reverse_half_nybbles() function work.
+
 int toThe (int x, int y){
    
     int temp = x;
